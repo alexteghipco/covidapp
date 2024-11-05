@@ -1,0 +1,1 @@
+runBioBertJupyter.sh shows the setup of BioBertExtractor.ipynb on a high performance computing environment with SLURM. BioBertExtractor shows how BioBert was used to generate abstract embeddings for every publication abstract. 
